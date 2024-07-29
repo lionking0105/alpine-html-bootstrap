@@ -3,7 +3,7 @@
 ## Overview
 For the fashion focused online store, Alpine is a responsive Bootstrap 5 Ecommerce template with a "Ken Burns" effect on the homepage slideshow, angled banners, and a custom image hotspot banner with popout product cards. Large product images on category pages give you ample room for showcasing products while simultaneously providing easy navigation throughout the website. It's the perfect starting point for any fashion retail website, and the template's clean and minimal design means it's easy to modify and painless to integrate with your custom Ecommerce application. And above all, it's free.
 
-<strong><a href="https://alpine-html-bootstrap.vercel.app/">View Demo</a> | <a href="https://github.com/PixelRocket-Shop/alpine-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
+<strong><a href="https://alpine-html-bootstrap.vercel.app/">View Demo</a> | <a href="https://github.com/lionking0105/alpine-html-bootstrap/archive/main.zip">Download ZIP</a></strong>
 
 ![Bootstrap 5 Responsive HTML Fashion Store Template](https://pixelrocket-public-assets.s3.eu-west-2.amazonaws.com/github-assets/alpine-html/homepage-medium.jpg "Alpine | Responsive Bootstrap 5 Ecommerce Template")
 
@@ -31,7 +31,7 @@ Most developers will be editing the source code and will also be running Webpack
 
 
 ## Quick Start
-- [Download the latest release](https://github.com/PixelRocket-Shop/alpine-html-bootstrap/archive/main.zip) OR clone the repo: `git clone https://github.com/PixelRocket-Shop/alpine-html-bootstrap.git`
+- [Download the latest release](https://github.com/lionking0105/alpine-html-bootstrap/archive/main.zip) OR clone the repo: `git clone https://github.com/lionking0105/alpine-html-bootstrap.git`
 - Install Node.js if you don't already have it on your system.
 - Open the project root in your command line.
 - run `npm install` in your command line.
@@ -185,5 +185,3 @@ Bootstrap already has a comprehensive documentation site that will guide you in 
 
 [Swiper.js](https://swiperjs.com/)
 
-## Contact Us
-You can find our website [here](https://www.pixelrocket.store) or you can email us at support@pixelrocket.store
